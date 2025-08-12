@@ -1,6 +1,0 @@
-типу дивись моя задача зараз така, отже є сайт olx - https://www.olx.ua/uk/nedvizhimost/kommercheskaya-nedvizhimost/arenda-kommercheskoy-nedvizhimosti/?currency=UAH&search%5Bfilter_float_total_area:from%5D=50
-
-у нього по оренді комерційних приміщень потрібно написати скритп парсер що витягує 
-
-площу, назву оголошення, опис оголошння, поверховість на пайтоні, бажано використовувати селеніум тому що потрібно буде переходити і знаходити номери
-
